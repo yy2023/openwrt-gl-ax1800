@@ -14,7 +14,7 @@ PKG_MIRROR_HASH:=6839081bafbc56d3b8e41d30790b20813c349cbc1732e887347ef5ed3ea717e
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/kvalo/ath11k-firmware.git
+PKG_SOURCE_URL:=https://gitee.com/openwrt-project/ath11k-firmware.git
 
 PKG_MAINTAINER:=Robert Marko <robimarko@gmail.com>
 
